@@ -1,7 +1,7 @@
-                                                                              ADVANCED RANSOMWARE SIMULATION
-                                                                       Attack | Detection | Quarantine | Recovery
-                                                                               Fully Safe • Academic Only
-                                                                           Educational Cybersecurity Project
+                                            ADVANCED RANSOMWARE SIMULATION
+                                      Attack | Detection | Quarantine | Recovery
+                                              Fully Safe • Academic Only
+                                           Educational Cybersecurity Project
 
 Overview :-
 This project is a fully safe and controlled ransomware simulation developed for academic and research purposes. It demonstrates the complete lifecycle of ransomware, including:
