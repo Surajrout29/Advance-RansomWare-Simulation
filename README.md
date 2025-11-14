@@ -120,6 +120,6 @@ Decrypt files
 Restore original names
 Remove ransom notes
 
-                            !! Disclaimer !!
+!! Disclaimer !!
 This project is strictly for educational and research purposes.
 It must never be used on real systems, networks, or unauthorized devices.
