@@ -1,0 +1,6 @@
+pyinstaller
+pycryptodome
+pillow
+opencv-python
+tk
+numpy
