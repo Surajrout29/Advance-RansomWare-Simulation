@@ -72,17 +72,20 @@ Visual Studio Code
 GitHub
 PyInstaller (optional for packaging)
 
-                * Install Required Dependencies *
-pip install -r requirements.txt
+Install Required Dependencies
 
-                * Run the Program *
+      pip install -r requirements.txt
+
+Run the Program
 CLI Mode:
-python main.py
+
+    python main.py
 
 GUI Ransomware Simulation:
-python gui_app.py
 
-                    Usage Guide:-
+    python gui_app.py
+
+Usage Guide:-
 CLI Menu Includes:
 Start Ransomware Attack
 Start Monitoring
@@ -98,7 +101,7 @@ Countdown begins
 Live webcam feed
 BTC payment simulation
 
-                    *System Operations Workflow*
+System Operations Workflow
 1) Attack Phase
 Encrypt files
 Rename files
